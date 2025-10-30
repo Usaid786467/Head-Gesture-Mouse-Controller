@@ -1,4 +1,4 @@
-Control your computer's mouse and keyboard hands-free! This project uses real-time head pose estimation for cursor movement and facial expression recognition for actions like clicking and scrolling.
+Control your computer's mouse and keyboard hands-free! This project uses real-time head pose estimation for cursor movement and facial expression recognition for actions like clicking and scrolling.Simply run the main.py and see the magic:Good Luck
 
 *(I highly recommend you record a 10-second GIF of it working and put it here. It's the most important part.)*
 
